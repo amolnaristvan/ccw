@@ -31,3 +31,5 @@ Időjárás naptár és óra config Conkyhoz
                      itt a Geo coords második  száma pl 47.2021
                      
                      Ha ezzel végeztél, nyiss egy terminált: cd .conky/ccw && conky -c ccw.conf
+                     
+                     A jq és a curl kell a conky működéséhez ha nem lenne feltelepítve: sudo apt install jq curl
