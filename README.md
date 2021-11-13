@@ -3,7 +3,7 @@ Időjárás naptár és óra config Conkyhoz
 
         Beállitása :
 
-        Csomagold ki a ccw.tar.gz fájlt a ~/.conky mappába ( a ccw mappát is)
+        Csomagold ki a ccw.tar.bz2 fájlt a ~/.conky mappába ( a ccw mappát is)
 
         A ccw/scripts/ mappában található weather.sh-t kell szerkeszteni
 
