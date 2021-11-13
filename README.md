@@ -32,4 +32,4 @@ Időjárás naptár és óra config Conkyhoz
                      
                      Ha ezzel végeztél, nyiss egy terminált: cd .conky/ccw && conky -c ccw.conf
                      
-                     A jq és a curl kell a conky működéséhez ha nem lenne feltelepítve: sudo apt install jq curl
+                     A jq python, és a curl kell a conky működéséhez ha nem lenne feltelepítve: sudo apt install jq curl python
